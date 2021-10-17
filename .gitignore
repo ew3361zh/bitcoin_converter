@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.idea/
+capstone_testing_2
+python_test_with_db
+exchange_rates
+timesheets
+game
+env
